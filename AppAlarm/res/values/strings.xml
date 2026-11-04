@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">アプリ起動アラーム</string>
-    <string name="widget_label">アプリ起動アラーム</string>
-    <string name="widget_description">次に開くアプリと時刻を表示します。タップでアプリを開きます。</string>
-</resources>
