@@ -1,0 +1,11 @@
+# ビルドで自動生成されるもの
+/build/
+/test/out/
+
+# 署名鍵や秘密情報。公開リポジトリには置かない
+*.jks
+*.keystore
+local.properties
+
+# 調査用の画面構造データ
+/shots/*.xml
